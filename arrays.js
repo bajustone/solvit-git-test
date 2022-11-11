@@ -10,6 +10,10 @@ let listOfTraines = [
     {
         name: "Daniela",
         stack: "Harambee"
+    },
+    {
+        name: "Someone else",
+        stack: "React"
     }
 ];
 
