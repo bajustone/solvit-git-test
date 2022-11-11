@@ -1,7 +1,7 @@
 let listOfTraines = [
     {
         name: "Ange",
-        stack: "React"
+        stack: "Django"
     },
     {
         name: "Bella",
